@@ -8,7 +8,7 @@
 
 ### It uses gradio as an user interface.
 
-##To Run
+## To Run
 
 pip install -r requirements.txt
 If you do not have nvidia gpu change the device from cuda to cpu.
