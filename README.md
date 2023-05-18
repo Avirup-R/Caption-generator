@@ -10,6 +10,7 @@
 
 ## To Run
 
-pip install -r requirements.txt
-If you do not have nvidia gpu change the device from cuda to cpu.
-python3 app.py
+pip install -r requirements.txt <br>
+If you do not have nvidia gpu change the device from cuda to cpu. <br>
+python3 app.py(in linux and anaconda)  <br>
+python app.py (in windows) <br>
