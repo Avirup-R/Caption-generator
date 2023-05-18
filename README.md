@@ -1,9 +1,15 @@
-## This Uses a caption generator model (gpt2 image captioning) for converitng image to text(captions).
+## This is a Caption Generator from Image model.
 
-## Then it uses bard api to change the basic caption to various interesting prompts.(ChatGPT was not taken beacuse the wait time for the response was too long.)
+### This Uses a caption generator model (gpt2 image captioning) for converitng image to text(captions).
 
-## The Captions are a little less interactive as compared to chatGPT but are good enough.(with the timetrade off I think bard does a better job.)
+### Then it uses bard api to change the basic caption to various interesting prompts.(ChatGPT was not taken beacuse the wait time for the response was too long.)
 
-## It uses gradio as an user interface.
+### The Captions are a little less interactive as compared to chatGPT but are good enough.(with the timetrade off I think bard does a better job.)
 
-## The image to text(caption) generator is not that great, due to this sometimes there are some errors in image interpretation.
+### It uses gradio as an user interface.
+
+##To Run
+
+pip install -r requirements.txt
+If you do not have nvidia gpu change the device from cuda to cpu.
+python3 app.py
