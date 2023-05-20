@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Image 1
 
 1. **Caption 1:** Man on a mission.
@@ -20,4 +21,28 @@ Image 3
 2. **Caption 2:** A woman holds a sign that says, "I believe in equality for all. No one should be discriminated against because of their race, gender, or sexual orientation."
 3. **Caption 3:** A woman holds a sign that says, "I am fighting for a better future. I believe in change. I will not give up."
 4. **Caption 4:** A woman holds a sign that says, "I am a voice for the voiceless. I will speak up for those who cannot speak for themselves."
+=======
+Image 1
+
+1. **Caption 1:** Man on a mission.
+2. **Caption 2:** All eyes on the ball.
+3. **Caption 3:** The goal is in sight.
+4. **Caption 4:** Time to score.
+5. **Caption 5:** The crowd goes wild.
+
+Image 2
+
+1. **Caption 1:** A woman and her best friend, enjoying the beauty of nature.
+2. **Caption 2:** A bond that can't be broken.
+3. **Caption 3:** Freedom and friendship, a perfect combination.
+4. **Caption 4:** Riding into the sunset, together.
+5. **Caption 5:** A woman and her horse, one heart, two souls.
+
+Image 3
+
+1. **Caption 1:** A woman holds a sign that says, "I am a woman. I am strong. I am capable. I am not afraid."
+2. **Caption 2:** A woman holds a sign that says, "I believe in equality for all. No one should be discriminated against because of their race, gender, or sexual orientation."
+3. **Caption 3:** A woman holds a sign that says, "I am fighting for a better future. I believe in change. I will not give up."
+4. **Caption 4:** A woman holds a sign that says, "I am a voice for the voiceless. I will speak up for those who cannot speak for themselves."
+>>>>>>> de6056ff3daddc1f63ca884e7a57c324563acad2
 5. **Caption 5:** A woman holds a sign that says, "I am hope. I am change. I am the future."
