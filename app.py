@@ -24,7 +24,7 @@ def listtostr(li):
 def get_text(prompt):
   token = 'WghfRvtVO_W5Xh8J_q0gM-xlln4FspcCVg-qGbgxvNa0CSayl6eCwxykYGXoBg3Srbu78g.'
   bard = Bard(token=token)
-  ans=bard.get_answer("create  5 highly catchy captions for '"+ prompt+"' with numbering as caption1 and so on with the caption on the same line")['content']
+  ans=bard.get_answer("create 5 catchy captions for '"+ prompt+"' with numbering as caption1 and so on with the caption on the same line")['content']
   return ans
 
 
