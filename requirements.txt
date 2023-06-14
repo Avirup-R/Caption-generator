@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-transformers
-torch
-gradio
-bardapi
-=======
-transformers
-torch
-gradio
-bardapi
->>>>>>> de6056ff3daddc1f63ca884e7a57c324563acad2
+bardapi==0.1.11
+gradio==3.34.0
+torch==2.0.1
+transformers==4.30.2
